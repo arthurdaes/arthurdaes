@@ -1,7 +1,7 @@
 ## Hello! My name is Arthur.
 - I’m currently working on backend systems with Typescript.
 - I’m a computer science and math student at the UFABC on Brazil.
-- I'm learning game development and machine learning so I can integrate both on a future project.
+- I'm learning game development and machine learning.
 <div align="center">
   <a href="https://github.com/daeskk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daeskk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
