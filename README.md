@@ -1,7 +1,7 @@
 ## Hello! My name is Arthur.
-- Currently working on backend systems with NestJS.
-- Computer science and math student at the UFABC on Brazil.
-- Studying machine learning and data science tools.
+- currently working on backend systems with NestJS.
+- computer science and math student at the Universidade Federal do ABC.
+- studying machine learning and data science frameworks.
           
   <img align="center" alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
